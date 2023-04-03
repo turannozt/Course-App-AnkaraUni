@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918783933515",
+    "project_id": "ankara-uni-d2a4e",
+    "storage_bucket": "ankara-uni-d2a4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918783933515:android:f894a0a704ae3b36c0a1ce",
+        "android_client_info": {
+          "package_name": "com.turanozt.ankarauni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918783933515-43o48po18j9amolqaktc14fc6oqffs8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjMJaLBgjiSL2vEZXfsA9kuYaf1VZDogA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918783933515-43o48po18j9amolqaktc14fc6oqffs8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
